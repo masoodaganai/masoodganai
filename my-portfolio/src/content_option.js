@@ -132,21 +132,21 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "developermasoodganai.com",
+    YOUR_EMAIL: "developermasoodganai@gmail.com",
     YOUR_FONE: "+91 6005134523",
     description: "Call me or Drop a Message ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_vitx8ol",
+    YOUR_TEMPLATE_ID: "template_r6ek9pl",
+    YOUR_USER_ID: "developermasoodganai@gmail.com",
 };
 
 const socialprofils = {
     instagram: "https://www.instagram.com/masoodaganai/",
     facebook: "https://www.facebook.com/masoodganai.tk",    
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    linkedin: "https://www.linkedin.com/in/masood-ahamed-6a2a21200/",
+    twitter: "https://twitter.com/masoodganai",
 };
 export {
     meta,
