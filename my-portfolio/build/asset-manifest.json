@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/masoodganai/static/css/main.e082dc0c.css",
-    "main.js": "/masoodganai/static/js/main.1f233840.js",
+    "main.css": "/masoodganai/static/css/main.1fd95f6c.css",
+    "main.js": "/masoodganai/static/js/main.8c434e5b.js",
     "index.html": "/masoodganai/index.html"
   },
   "entrypoints": [
-    "static/css/main.e082dc0c.css",
-    "static/js/main.1f233840.js"
+    "static/css/main.1fd95f6c.css",
+    "static/js/main.8c434e5b.js"
   ]
 }

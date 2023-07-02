@@ -30,11 +30,11 @@ const worktimeline = [{
 const skills = [{
     
         name: "Html",
-        value: 50,
+        value: 60,
     },
     {
         name: "CSS",
-        value: 50,
+        value: 60,
 
     },
 
